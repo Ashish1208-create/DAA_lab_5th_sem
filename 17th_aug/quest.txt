@@ -1,0 +1,5 @@
+calulate the no of inversion 
+such that A[i] and A[j] got two element of array
+
+if i<j and A[j] > A[i]
+
